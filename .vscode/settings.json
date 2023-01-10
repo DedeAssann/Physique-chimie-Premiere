@@ -1,0 +1,35 @@
+{
+  "editor.fontFamily": "Fira Code",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "diffEditor.codeLens": true,
+  "editor.quickSuggestionsDelay": 1,
+  "editor.suggest.preview": true,
+  "files.autoGuessEncoding": true,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 500,
+  "files.defaultLanguage": "",
+  "files.insertFinalNewline": true,
+  "workbench.colorTheme": "Ayu Dark",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.sideBar.location": "right",
+  "workbench.editor.autoLockGroups": {
+    "default": true,
+    "mergeEditor.Input": true,
+    "vscode-interactive-input": true,
+    "imagePreview.previewEditor": true,
+    "vscode.markdown.preview.editor": true,
+    "analyticsignal.preview-mp4": true,
+    "pdf.preview": true,
+    "jupyter-notebook": true,
+    "mainThreadWebview-markdown.preview": true
+  },
+  "workbench.editor.enablePreviewFromQuickOpen": true,
+  "workbench.editor.highlightModifiedTabs": true,
+  "window.autoDetectColorScheme": true,
+  "window.commandCenter": true,
+  "markdown.experimental.validate.ignoreLinks": [
+    "assets/c19_p398_ex41_daltonisme.mp4"
+  ]
+}

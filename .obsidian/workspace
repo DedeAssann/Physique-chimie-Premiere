@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "40d4e01bdbfdc0d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e827d1e622e6657",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "32151174a247d26b",
+    "type": "split",
+    "children": [
+      {
+        "id": "af0e5b0d4e9ed934",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1430d0d14ace5521",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6c09e533662455aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#exercice",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "298dc57627d45e5c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 361.5053424835205
+  },
+  "right": {
+    "id": "6a09ae60443af33c",
+    "type": "split",
+    "children": [
+      {
+        "id": "030bd557da7a124a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c827d6b5943b462f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cdee583da91a491e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "324da84a311e9eac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bdaf44bba4110454",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6e827d1e622e6657",
+  "lastOpenFiles": [
+    "obsidian vault/Lewis.md",
+    "Aspose.Words.f4464b35-dc82-4b1f-8e3b-13b06671ce4b.001.png.md",
+    "exercice oxydoreduction.md",
+    "exercice de pratique et d'approfondissement en oxydoreduction.md",
+    "obsidian vault/chapitre_2.md",
+    "cours/cours/chapitre_2.md",
+    "cours/exo_pratique/oxydo_reduction_exercices.pdf",
+    "cours/exo_pratique/1ER-PC-CHAP_13_exercices.pdf",
+    "cours/exo_pratique/1ER-PC-CHAP_12_exercices.pdf",
+    "cours/exo_pratique/1ER-PC-CHAP_10_exercices.pdf"
+  ]
+}
