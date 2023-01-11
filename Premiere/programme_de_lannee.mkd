@@ -1,0 +1,39 @@
+# Ordre Des chapitres
+
+> Groupe 1
+
+* chapitre 3: Evolution d'un systeme initial ( Avancement )
+
+> Groupe 2 : Rentree scolaire ( septembre )
+
+* chapitre 19: [Couleurs](../Physique_chimie/cours/cours/Chapitre_19.md)
+* chapitre 1: [Composition d'un systeme initial ( Etude par Spectrophotometrie )](../Physique_chimie/cours/cours/chapitre_1.md)
+* chapitre 2: [Oxydoreduction](../Physique_chimie/cours/cours/chapitre_2.md)
+* chapitre 4: [Titrage avec suivi colorimetrique](../Physique_chimie/cours/cours/chapitre_4.md)
+
+> Groupe 3 : Physique ( fluide ), chimie ( Etude de la structure des entites chimiques )
+
+* chapitre 11: Description d'un fluide au repos
+* chapitre 5: De la structure a la polarite d'une entite
+* chapitre 10: Interactions fondamentales
+* chapitre 6: De la structure des entites a la cohesion et a la solubilite
+
+> Groupe 4 : Physique ( Inertie ), notions d'Energie
+
+* chapitre 12: Mouvement d'un systeme ( Application du Principe d'Inertie)
+* chapitre 7: Structure des especes chimiques organiques
+* chapitre 14: Energie cinetique et travail d'une force
+* chapitre 15: Energie potentielle et energie mecanique
+
+> Groupe 5 : Chimie Organique
+
+* chapitre 8: Synthese d'especes chimiques organiques
+* chapitre 13: Energie electrique
+* chapitre 9: Energie stockee dans la matiere organique
+
+> Groupe 6: Notions d'ondes et Optique
+
+* chapitre 16: Ondes mecaniques progressives
+* chapitre 17: Ondes mecaniques periodiques
+* chapitre 20: Modeles ondulatoire et particulaire de la lumiere
+* chapitre 18: Lentilles minces convergentes et images
