@@ -1,0 +1,96 @@
+# De la structure des entites a la cohesion et a la solubilite
+
+## COHESION DANS UN SOLIDE
+
+C'est l'interaction electromagnetique qui dans un solide assure la cohesion de la matiere. Il existe deux types de solides: solide ioniques et moleculaires. La cohesion des solides moleculaires de son cote est expliqee differemment selon si le solide esr constitue de molecules polaire ou apolaires.
+
+### 1. Les solides ioniques
+
+- Les **solides ioniques** sont constitues d'ions : des ions cations et des anions. Or les atomes charges negativement sont attires par ceux charges positivement et inversement.
+- La cohesion des solides ioniques, solides composes d'ions est due aux forces d'interactions electrostatiques attractives s'exercant entre les ions de charge opposee. En effet chaque cation est entoure par des anions et inversement, ce qui donne au final une structure tres organisee dans l'espace e un motif regulier : c'est ce que l'on appelle des **cristaux**.
+*Exemple*: Le chlorure de sodium ( NaCl(s)) est constitue d'ions Na+ et Cl-.
+
+...image NaCl...
+
+### Les solides constitues de molecules polaires
+
+- Les solides moleculaires sont constitues par un assemblage de molecules. Bien que ces molecules soient electriquement neutres, elles peuvent comporter des charges partielles : certains sont plus electronegatifs que d'autres, ce qui signifie qu'ils attirent davantage vers eux leselectrons mis en commun dans les liaisons covalentes. La liaison covalente ainsi foprmee est dissymetrique : l'atome le plus electronegatif porte une charge partielle negative et celui le moins electronegatif porte une charge partielle positive. Ces ensembles de charges opposees sont appeles de dipoles.
+- Les interactions electromagnetiques entre dipoles sont appelees **Forces de Van der Waals** et sont a l'origine de la cohesion des solides moleculaires.
+- Lorsque les dipoles engages dans ce type d'interaction impliquent un atome d'hydrogene et un atome de fluor, d'azote ou d'oxygene, on parle de **liaison/pont hydrogene**. Ces liaisons hydrogene sotn tres fortes et permettent d'expliquer de nombreux phenomenes.
+
+....image liaison hydrogene....
+
+> A noter : L'intensite des liaisons hydrogene est environ 10 fois superieure a celle des interactions Van der swaal, mais 20 fois inferieure a celle des liaisons entre atomes.
+
+### Les solides constitues de molecules apolaires
+
+- La cohesion des solides constitues de molecules apolaires est aussi due aux **forces de Van der Waals**.
+- En effet, meme si ces molecules ne comportent pas de charges partielles en permanence, elles possedent un nuage electronique "autour d'elle". Lorsque deux molecules se rapporchent, leurs nuages electroniques se deforment (a cause de la repulsion des charges negatives). Cette deformation bouscule la repartition des charges electriques et cree donc des charges partielles localisees et temporaires, appelees **charges induites**. Ces charges sont constamment modifiees puisque les molecules sont en mouvement mais leur presence et leurs interactions a chaque instant provoquent des attractions entre molecules, d'ou la cohesion du solide.
+
+> On parle ici de **dipole induit**, forme par la deformation du nuage electronique. Il ne faut pas confondre avec le dipole permanent qui luui resulte de la polarite de la molecule.
+
+## DISSOLUTION DES SOLIDES IONIQUES DANS L'EAU
+
+### Formule statistique d'un solide ionique
+
+Un solide ionique est constitue d'un assemblage reulier de cations et d'anions. il est toujours neutre puisqu'il contient autant de charges positives que de charges negatives. Sa **formules statistique** tient compte de cette neutralite et ne contient aucune charge comme NaCl ou encore CuSO4.
+
+### Dissolution d'un solide ionique dans l'eau
+
+- La dissolution se fait en deux etapes :
+    **Dissociation**: lors de la mise en solution d'un solide ionique, les molecules d'eau exercent sur les ions du cristal des forces electriques qui detruisent le cristal ionique. Les ions se detachent alors du crystal. Cette dissociation est due a la polarite des molecules d'eau.
+    **Solvatation**: dans un second temps, ces ions s'entourent alors de molecules d'eau formant ainsi une sorte de cage. C'est la solvatation.
+
+    ....image sovatation....
+
+> D'autres solvantsa peuvent intervenir dans le processus de solvatation. Lorsqu'il s'agit de l'eau on parle d'**hydratation**.
+> Un solvant apolaire, depourvue de charge, ne peut solvater les ions. Il ne peut donc dissoudre aucun solide ionique.
+
+### Equation des reactions de dissolution d'un solide ionique
+
+- La dissolution est toujours modelisee par l'equation :
+    fromule statistique du solide (s) --> formule du cation(aq) + formule de l'anion(aq)
+
+*Exemple*: equation de la dissolution du chlorure de sodium
+    NaCl(s) --> Na+ + Cl-
+
+> A noter: Comme pour toute equation chimique, il faut veiller a la stoechiometrie. Lorsqu'un ion est solvate par l'eau, on ajoute l'indice (aq) signifiant "aqueux".
+
+### Concentration apportee et concentration effective
+
+- La concentration molaire en solute apportee C d'une solutiion est donnee par la relation suivante:
+    C = n/Vsol
+avec: C, concentration en solute apportee (mol/L);
+    n, quantite de matiere de solute (mol)
+    Vsol, volume de solution(L)
+- La **concentration molaire effective**d'un ion X, notee [X], est donnee par :
+    [X(aq)] = n(X(aq))/Vsol
+avec: [X(aq)], concentration de l'ion X (mol/L)
+    n(X(aq)), quantite de matiere d'ion (mol)
+    Vsol, volume de la solution (L).
+
+> A noter: Ne pas confondre concentration apportee et concentration effective. On ne peut pas ecrire [Na2SO4], car cette espece n'existe plus apres sa dissolution. Pour la concentration de la solution en solute apporte(le solide ionique dissout) on ecrira donc C.
+
+- Comme pour les solides ioniques, toutes les solutions ioniques sont electriquement neutres. L'**equation d'electroneutralite des solution ioniques** est la relation mathematique liant les concentrations effectives des ions contenus dans une solution ionique.
+
+*Exemple*: Pour une solution de chlorure de sodium NaCl, on peut toujours ecrire : [Na+] = [Cl-].
+
+### Preparation d'une solution ionique
+
+La preparation d'une solution ionique peut se faire par:
+    - Dissolution d'un solide ionique, c'est-a-dire en disoolvant un solide ionique dans l'eau. On peut determiner la masse de solide a dissoudre pour obtnir une solution d'une concentration bien precise en l'un des ions qu'elle contient.
+    - Dilution, c'est-a-dire en diluant une solution plus concentree. On peut deteminer le volume de solution concentree qu'il faut prelever pour obtenir une solution plus diluee en un ion precis.
+
+## SOLUBILITE, MISCIBILITE ET EXTRACTION PAR SOLVANT
+
+- La solubilite, souvent notee *s*, est la capacite d'une espece a se dissoudre dans un solvant donne, a etre solvatee. Elle orrespond, en tant que grandeur quantitative, a la masse maximale que l'on peut dissoudre par litre de solvant. La miscibilite elle, est la capacite de deux liquides differents a se melanger. Deux liquides miscibles forment un melange homogene, et deux liquides non-miscibles forment un melange heterogenes.
+- Une extraction consiste a retirer ( extraire ) une ou des especes chimiques d'un milieur solide ou liquide. L'extraction par solvant, appelee aussi extraction liquide-liquide, consiste a faire passer une espece du solvant dans lequel elle est solubilisee dans un second solvant dans lequel elle y est plus soluble. On utilise pour ce faire, une ampoule a decanter. il faut deux condidtions pour realiser une telle extraction : les deux solvant doivent etre non-miscibles entre eux, et l'espece d'interet doit etre plus soluble dans le second dit solvant extracteur, que dans le solvant d'origine.
+
+....image ampoule a decanter....
+
+## PROPRIETES DES SAVONS
+
+- Une especeest dite hydrophile si elle est soluble dans l'eau. Une telle espece est le plus souvent polaire (comme l'eau), voire capable d'etablir des ponts hydrogenes avec les molecules d'eau. Une espece est dite lipophile si elle est soluble dans les graisses. Une telle espece est apolaire.
+- Une espece est dite **amphiphile** lorsqu'elle possede deux parties : une partie hydrophile, et une partie lipophile.
+...image du savon...
+- On appelle "**tensioactif**" un compose amphiphile. Un tensioactif peut avoir des actions moussantes (formation de bulles), emulsionnante (formation d'une emulsion), detergente (detachement de saletes)...
